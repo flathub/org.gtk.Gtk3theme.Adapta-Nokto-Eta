@@ -18,8 +18,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/adapta-project/adapta-gtk-theme-flatpak/archive/3.94.0.76.tar.gz",
-          "sha256": "258f708f5a0ee3d269e39268a3b5d84bcaebb209f37f281aacb02ace4467eead"
+          "url": "https://github.com/adapta-project/adapta-gtk-theme-flatpak/archive/3.94.0.89.tar.gz",
+          "sha256": "d76f2f456344271714d05a580b62d025d409dd8ffc793ccfa6cbcbe8710c931a"
         }
       ]
     },
